@@ -1,11 +1,10 @@
-## Interests
-- ソフトウェアテスト / Software Testing
-- テスト自動化 / Test Automation
-- Pythonプログラミング / Python Programming
-- Gitとバージョン管理 / Git and Version Control
-- CI/CDパイプラインの構築 / Building CI/CD Pipelines
-
-## Learning Skills
-- Python（基礎） / Python (Basics)
-- Selenium（自動化ツール） / Selenium (Automation Tool)
-- Git（バージョン管理） / Git (Version Control）
+## About Me
+QAエンジニア。ソフトウェアテストを軸に、テスト自動化などのスキルを深めています。品質の高いソフトウェア開発に貢献できるよう、日々研究しています。よろしくお願いします。
+QA Engineer focused on software testing and enhancing skills in test automation. I am committed to contributing to the development of high-quality software through continuous learning and research. Looking forward to connecting! 
+## Skill Sets
+	•	Test Automation (テスト自動化): Python, Selenium, Appium
+	•	API Testing (APIテスト): Postman
+	•	CI/CD (継続的インテグレーション/デリバリー): Jenkins
+	•	Version Control (バージョン管理): Git
+	•	Code Editing (コード編集): VScode
+	•	Bug Tracking (バグ追跡): JIRA
